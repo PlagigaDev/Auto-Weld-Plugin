@@ -4,7 +4,9 @@
     "$className": "DataModel",
 
     "ServerScriptService": {
-      "$path": "src"
+      "AutoWeld": {
+        "$path": "src"
+      }
     },
 
     "Workspace": {
