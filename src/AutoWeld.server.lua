@@ -7,7 +7,7 @@ local toolbar = plugin:CreateToolbar("Auto Weld")
 local pluginButton = toolbar:CreateButton(
 "Auto Weld", --Text that will appear below button
 "Weld all parts to the Handle/ Primary part", --Text that will appear if you hover your mouse on button
-"rbxassetid://12432317029") --Button icon
+"rbxassetid://15211460712") --Button icon
 
 local info = DockWidgetPluginGuiInfo.new(
 	Enum.InitialDockState.Right, --From what side gui appears
